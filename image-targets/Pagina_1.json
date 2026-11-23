@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Pagina_1_luminance.png",
+  "resources": {
+    "originalImage": "Pagina_1_original.png",
+    "croppedImage": "Pagina_1_cropped.png",
+    "thumbnailImage": "Pagina_1_thumbnail.png",
+    "luminanceImage": "Pagina_1_luminance.png"
+  },
+  "name": "Pagina_1",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 310,
+    "width": 1860,
+    "height": 2480,
+    "isRotated": false,
+    "originalWidth": 2480,
+    "originalHeight": 2480
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795474743147,
+  "updated": 1795474743147
+}

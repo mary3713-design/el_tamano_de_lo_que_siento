@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Escena_6_luminance.png",
+  "resources": {
+    "originalImage": "Escena_6_original.png",
+    "croppedImage": "Escena_6_cropped.png",
+    "thumbnailImage": "Escena_6_thumbnail.png",
+    "luminanceImage": "Escena_6_luminance.png"
+  },
+  "name": "Escena_6",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 310,
+    "width": 1860,
+    "height": 2480,
+    "isRotated": false,
+    "originalWidth": 2480,
+    "originalHeight": 2480
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795475388904,
+  "updated": 1795475388904
+}
